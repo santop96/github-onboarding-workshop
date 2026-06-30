@@ -1,61 +1,61 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
-
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
-
----
+# My Notes — Okoruwa Obehi Emmanuel
 
 ## Key Concepts I Learned
 
-<!-- Write the main ideas covered in today's session -->
+During today's session, I learned:
 
--
--
--
+* The mindset, commitment, and consistency required to succeed in the programme.
+* How to create, configure, and manage a GitHub account.
+* How to collaborate with others using GitHub.
+* How to fork a repository before contributing.
+* The correct workflow for completing and submitting assignments through GitHub.
 
 ---
 
 ## Lab / Hands-On Work
 
-<!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
+### What I Did
 
-### What I did
+* Enhanced and customized my GitHub profile.
+* Downloaded the class resources.
+* Forked the class repository to my GitHub account.
+* Practiced navigating repositories and preparing to submit assignments.
 
+### What Happened / Result
 
-### What happened / Result
+* Successfully updated and improved my GitHub profile.
+* Downloaded all required learning resources.
+* Gained a better understanding of the GitHub collaboration workflow.
+* Learned the proper process for contributing to repositories using forks.
 
+### Challenges I Faced
 
-### Challenges I faced
-
+* Initially attempted to upload my work directly to the original repository without first forking it.
+* After understanding the correct workflow, I was able to fork the repository and continue successfully.
 
 ---
 
 ## My Takeaways
 
-<!-- What was most valuable to you personally from this session? -->
-
+The most valuable lesson from today's session was learning how to properly set up, organize, and enhance my GitHub profile for professional use. I also gained practical experience with the GitHub collaboration workflow, including forking repositories and preparing submissions, which will be essential throughout the programme and in future software development and cloud engineering projects.
 
 ---
 
 ## Questions I Still Have
 
-<!-- Anything you want to follow up on or ask the mentor -->
-
--
--
+* What are the best practices for maintaining a professional GitHub profile that attracts recruiters?
+* How can I contribute effectively to open-source projects using GitHub?
 
 ---
 
 ## Resources I Found Useful
 
-<!-- Any links, docs, or Microsoft Learn modules you found helpful -->
-
--
+* GitHub Documentation
+* GitHub Skills
+* Microsoft Learn
+* Class resources and training materials
 
 ---
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+**Submitted by:** Okoruwa Obehi Emmanuel
+**GitHub Username:** `okoruwaobehi111`
