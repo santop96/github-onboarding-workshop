@@ -1,11 +1,4 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
-
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
+# My Notes — TIMOTHY AYOBAMI ABRAHAM]
 
 ---
 
@@ -13,8 +6,9 @@
 
 <!-- Write the main ideas covered in today's session -->
 
--
--
+-Classroom rules and management 
+-Creation of github account.
+Submission of assignments on github
 -
 
 ---
@@ -24,28 +18,28 @@
 <!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
 
 ### What I did
-
+I created account on github using my goggle account rather than filling the form directly.I also created a repository for private use only.
 
 ### What happened / Result
-
+The account is activated and I submitted my assignment.I also created a repository on the page
 
 ### Challenges I faced
 
-
+I had challenges with network and understanding the steps until I followed the video(tutorial) on activation mode.
 ---
 
 ## My Takeaways
 
 <!-- What was most valuable to you personally from this session? -->
 
-
+I have been able to activate and use github for the first time.
 ---
 
 ## Questions I Still Have
 
 <!-- Anything you want to follow up on or ask the mentor -->
 
--
+-What is the application of github to Ai and cloud security?
 -
 
 ---
@@ -53,9 +47,9 @@
 ## Resources I Found Useful
 
 <!-- Any links, docs, or Microsoft Learn modules you found helpful -->
-
+BOOTCAMP NAIJA AI and CLOUD SECURITY GITHUB.
 -
-
+https://github.com/Microsoft-Naija-Security-Usergroup/github-onboarding-workshop/edit/main/classes/session-00-2026-06-27-pre-bootcamp-onboarding/pre-bootcamp-onboarding-yourname-template.md
 ---
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: [TIMOTHY ABRAHAM ] · [TIMOTHY ABRAHAM ]*
