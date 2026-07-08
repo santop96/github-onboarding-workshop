@@ -4,18 +4,22 @@
 
 ## Key Concepts I Learned
 
-<!-- Write the main ideas covered in today's session -->
 
--Classroom rules and management 
--Creation of github account.
-Submission of assignments on github
+- I learned that GitHub is a platform for hosting and managing code using Git
+- I learned how to stores projects
+- How commits save cahnges
+- How branches allows separate development 
+-
 -
 
 ---
 
 ## Lab / Hands-On Work
+I created a Github account and set up my profile 
+Created a repo 
+Made commits with meaningful commit messages 
+Pushed local changes to github 
 
-<!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
 
 ### What I did
 I created account on github using my goggle account rather than filling the form directly.I also created a repository for private use only.
@@ -23,16 +27,20 @@ I created account on github using my goggle account rather than filling the form
 ### What happened / Result
 The account is activated and I submitted my assignment.I also created a repository on the page
 
+
 ### Challenges I faced
 
-I had challenges with network and understanding the steps until I followed the video(tutorial) on activation mode.
+I struggled to get my assignment submitted 
+i had it done, saved and even verified but it still wasn't on the list 
 ---
 
 ## My Takeaways
 
-<!-- What was most valuable to you personally from this session? -->
 
-I have been able to activate and use github for the first time.
+Through they training I now understand how to create and manage repositories, track changes with commits.
+The hands on work increased my confidence in using GitHub and I gained practical skills 
+I now understand collaboration when working on a project 
+
 ---
 
 ## Questions I Still Have
